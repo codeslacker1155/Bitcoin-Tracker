@@ -28,7 +28,7 @@ The automation of money and the rise of AI are transforming the financial indust
 In conclusion, Bitcoin’s potential as an alternative investment option and the role of asset managers like BlackRock and Vanguard in the global economy are two important topics in the current financial landscape. While Bitcoin’s decentralized nature and potential as a hedge against inflation make it an attractive option for some investors, its volatility and investment risk make it a risky choice. Meanwhile, the concentration of ownership by BlackRock and Vanguard in major corporations raises concerns about their influence over corporate decision-making and the potential for conflicts of interest. 
 
 
-Here are some of the biggest centralized cryptocurrency exchanges and companies, along with their founders/CEOs:
+**Here are some of the biggest centralized cryptocurrency exchanges and companies, along with their founders/CEOs:**
 Coinbase - Founded by Brian Armstrong and Fred Ehrsam in 2012.
 Binance - Founded by Changpeng Zhao in 2017.
 Bitfinex - Founded by Raphael Nicolle and Giancarlo Devasini in 2012.
@@ -59,10 +59,7 @@ These companies have been run by their respective founders/CEOs since their ince
 
 **Note:** The crypto addresses listed above were publicly disclosed at some point by these individuals, but it's important to note that their holdings in crypto may have changed since then and these addresses may no longer be accurate.
 
-Sources:
-- https://www.forbes.com/billionaires/#644c
-
-Here is an updated table of the largest known crypto whales with their estimated holdings and net worth as of October 2021, along with sources:
+**Here is an updated table of the largest known crypto whales with their estimated holdings and net worth as of October 2021, along with sources: **
 
 | Rank | Name | Holdings | Net Worth (USD) | Source |
 |------|------|----------|----------------|--------|
@@ -88,7 +85,7 @@ As for the future of Bitcoin, it's difficult to predict with certainty. However,
 
 Overall, the future of Bitcoin remains uncertain, but its potential as a decentralized, digital currency has led many to believe in its long-term success.
 
-Sure, here's a table with key data points related to the future of Bitcoin:
+**Here's a table with key data points related to the future of Bitcoin: **
 
 | Data Point           | Value/Target | Source                                                               |
 |----------------------|-------------|----------------------------------------------------------------------|
@@ -120,13 +117,13 @@ In terms of adoption, Bitcoin is already widely accepted by a large number of me
 Overall, the future of Bitcoin is likely to be shaped by a combination of technological innovation, regulatory developments, and market forces. While there are certainly risks associated with investing in the cryptocurrency, many believe that its potential rewards outweigh the risks, and that it will continue to play an increasingly important role in the global financial system.
 
 
-World’s Largest Asset Managers:
+***World’s Largest Asset Managers:***
 
 According to data from BitInfoCharts, as of March 21, 2023, the largest holder of bitcoin is the Satoshi Nakamoto address, which is believed to be owned by the creator of Bitcoin, or possibly a group of people. The address currently holds over 1.1 million bitcoins, which is worth over $90 billion at current prices.
 
 In terms of the world's largest asset managers, BlackRock and Vanguard are indeed at the top of the list. According to the latest data from Statista, as of 2022, BlackRock has the largest assets under management (AUM) of any asset manager in the world, with over $9 trillion. Vanguard comes in second with over $7 trillion in AUM. Other major asset managers include State Street Global Advisors, Fidelity Investments, and PIMCO, with AUMs of $3.7 trillion, $3.5 trillion, and $2.8 trillion respectively.
 
-Here is a table showing the top 10 largest asset managers in the world by AUM, as of 2022:
+**Here is a table showing the top 10 largest asset managers in the world by AUM, as of 2022:**
 
 | Rank | Company                 | AUM (in trillions) |
 |------|------------------------|--------------------|
